@@ -1,0 +1,1 @@
+{"jobID":"61f4fda2-e293-7d86-6dda-3778118b7f78","spec":{"type":"policy","cause":{"Message":"","User":"Clark Anton \u003cclark.p.anton@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
